@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <declare-styleable name="BaseEndlessRecyclerview">
+        <attr name="endless_rcv_enable_refresh" format="boolean"/>
+    </declare-styleable>
+</resources>
